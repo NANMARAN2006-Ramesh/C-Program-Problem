@@ -1,5 +1,5 @@
 #include<stdio.h>
-int mina(){
+int min(){
     int a,b;
     scanf("%d%d",&a,&b);
     printf("%d %d");
